@@ -48,5 +48,5 @@ THEN I should have proper build scripts for a webpack application
 ## Screenshot
 
 ```md
-![PWA Text Editor](https://github.com/shumaela/sh-PWAtexteditor/assets/147661185/6f45a13b-a06e-4405-bbfa-eb0b1f6e1638)
+$[PWA Text Editor](https://github.com/shumaela/sh-PWAtexteditor/assets/147661185/6f45a13b-a06e-4405-bbfa-eb0b1f6e1638)
 ```
