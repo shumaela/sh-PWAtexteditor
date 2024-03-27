@@ -9,6 +9,12 @@ I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 ```
 
+## Description
+
+```md
+A text editor single page application that runs in the browser whilst meeting PWA criteria.The application can function offline and features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. 
+```
+
 ## Acceptance Criteria
 
 ```md
@@ -37,4 +43,10 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
+```
+
+## Screenshot
+
+```md
+![PWA Text Editor](https://github.com/shumaela/sh-PWAtexteditor/assets/147661185/6f45a13b-a06e-4405-bbfa-eb0b1f6e1638)
 ```
